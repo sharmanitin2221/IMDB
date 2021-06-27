@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.Final.TestCases.E2E_IMDB_TC_001_Not_Authorized"/>
+      <class name="org.Final.TestCases.E2E_IMDB_TC_002_New_Account_Creation"/>
+      <class name="org.Final.TestCases.E2E_IMDB_TC_003_Check_for_OTP"/>
+      <class name="org.Final.TestCases.E2E_IMDB_TC_004_Authorized_User"/>
+      <class name="org.Final.TestCases.E2E_IMDB_TC_005_Authorized_User_with_Invalid_Username_Password"/>
+      <class name="org.Final.TestCases.E2E_IMDB_TC_006_Authorized_User_with_Blank_or_Invalid_Password"/>
+      <class name="org.Final.TestCases.E2E_IMDB_TC_007_Authorized_User_Navigate_to_Top_Rated_Movies"/>
+      <class name="org.Final.TestCases.E2E_IMDB_TC_008_Authorized_User_Sort_Movies_by_Release_Dropdown"/>
+      <class name="org.Final.TestCases.E2E_IMDB_TC_009_Authorized_User_Last_Movie_from_Sorted_List"/>
+      <class name="org.Final.TestCases.E2E_IMDB_TC_010_Authorized_User_Last_Print_Release_Date"/>
+     </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

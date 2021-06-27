@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="273072" started-at="2021-06-27T17:40:38 IST" finished-at="2021-06-27T17:45:12 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="273072" started-at="2021-06-27T17:40:38 IST" finished-at="2021-06-27T17:45:12 IST">
+      <class name="org.Final.TestCases.E2E_IMDB_TC_009_Authorized_User_Last_Movie_from_Sorted_List">
+        <test-method status="PASS" signature="StartBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_009_Authorized_User_Last_Movie_from_Sorted_List@7113b13f]" name="StartBrowser" is-config="true" duration-ms="10853" started-at="2021-06-27T17:43:42 IST" finished-at="2021-06-27T17:43:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method status="PASS" signature="athorizedUser_SortedList_lastElement()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_009_Authorized_User_Last_Movie_from_Sorted_List@7113b13f]" name="athorizedUser_SortedList_lastElement" duration-ms="31894" started-at="2021-06-27T17:43:53 IST" finished-at="2021-06-27T17:44:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- athorizedUser_SortedList_lastElement -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_009_Authorized_User_Last_Movie_from_Sorted_List@7113b13f]" name="CloseBrowser" is-config="true" duration-ms="0" started-at="2021-06-27T17:44:25 IST" finished-at="2021-06-27T17:44:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.Final.TestCases.E2E_IMDB_TC_009_Authorized_User_Last_Movie_from_Sorted_List -->
+      <class name="org.Final.TestCases.E2E_IMDB_TC_005_Authorized_User_with_Invalid_Username_Password">
+        <test-method status="PASS" signature="StartBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_005_Authorized_User_with_Invalid_Username_Password@7ce6a65d]" name="StartBrowser" is-config="true" duration-ms="12653" started-at="2021-06-27T17:41:52 IST" finished-at="2021-06-27T17:42:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method status="PASS" signature="athorizedUserwithInvalidPassword()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_005_Authorized_User_with_Invalid_Username_Password@7ce6a65d]" name="athorizedUserwithInvalidPassword" duration-ms="7145" started-at="2021-06-27T17:42:05 IST" finished-at="2021-06-27T17:42:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- athorizedUserwithInvalidPassword -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_005_Authorized_User_with_Invalid_Username_Password@7ce6a65d]" name="CloseBrowser" is-config="true" duration-ms="1" started-at="2021-06-27T17:42:12 IST" finished-at="2021-06-27T17:42:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.Final.TestCases.E2E_IMDB_TC_005_Authorized_User_with_Invalid_Username_Password -->
+      <class name="org.Final.TestCases.E2E_IMDB_TC_002_New_Account_Creation">
+        <test-method status="PASS" signature="StartBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_002_New_Account_Creation@7a9273a8]" name="StartBrowser" is-config="true" duration-ms="10316" started-at="2021-06-27T17:40:58 IST" finished-at="2021-06-27T17:41:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method status="PASS" signature="newAccountCreation()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_002_New_Account_Creation@7a9273a8]" name="newAccountCreation" duration-ms="8303" started-at="2021-06-27T17:41:08 IST" finished-at="2021-06-27T17:41:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newAccountCreation -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_002_New_Account_Creation@7a9273a8]" name="CloseBrowser" is-config="true" duration-ms="1" started-at="2021-06-27T17:41:16 IST" finished-at="2021-06-27T17:41:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.Final.TestCases.E2E_IMDB_TC_002_New_Account_Creation -->
+      <class name="org.Final.TestCases.E2E_IMDB_TC_001_Not_Authorized">
+        <test-method status="PASS" signature="StartBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_001_Not_Authorized@34c4973]" name="StartBrowser" is-config="true" duration-ms="10370" started-at="2021-06-27T17:40:38 IST" finished-at="2021-06-27T17:40:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method status="PASS" signature="unathorizedUser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_001_Not_Authorized@34c4973]" name="unathorizedUser" duration-ms="8786" started-at="2021-06-27T17:40:49 IST" finished-at="2021-06-27T17:40:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unathorizedUser -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_001_Not_Authorized@34c4973]" name="CloseBrowser" is-config="true" duration-ms="0" started-at="2021-06-27T17:40:58 IST" finished-at="2021-06-27T17:40:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.Final.TestCases.E2E_IMDB_TC_001_Not_Authorized -->
+      <class name="org.Final.TestCases.E2E_IMDB_TC_006_Authorized_User_with_Blank_or_Invalid_Password">
+        <test-method status="PASS" signature="StartBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_006_Authorized_User_with_Blank_or_Invalid_Password@1500955a]" name="StartBrowser" is-config="true" duration-ms="13247" started-at="2021-06-27T17:42:12 IST" finished-at="2021-06-27T17:42:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method status="PASS" signature="athorizedUserwithBlankPassword()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_006_Authorized_User_with_Blank_or_Invalid_Password@1500955a]" name="athorizedUserwithBlankPassword" duration-ms="6508" started-at="2021-06-27T17:42:25 IST" finished-at="2021-06-27T17:42:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- athorizedUserwithBlankPassword -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_006_Authorized_User_with_Blank_or_Invalid_Password@1500955a]" name="CloseBrowser" is-config="true" duration-ms="0" started-at="2021-06-27T17:42:32 IST" finished-at="2021-06-27T17:42:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.Final.TestCases.E2E_IMDB_TC_006_Authorized_User_with_Blank_or_Invalid_Password -->
+      <class name="org.Final.TestCases.E2E_IMDB_TC_004_Authorized_User">
+        <test-method status="PASS" signature="StartBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_004_Authorized_User@4abdb505]" name="StartBrowser" is-config="true" duration-ms="9620" started-at="2021-06-27T17:41:37 IST" finished-at="2021-06-27T17:41:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method status="PASS" signature="athorizedUser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_004_Authorized_User@4abdb505]" name="athorizedUser" duration-ms="6135" started-at="2021-06-27T17:41:46 IST" finished-at="2021-06-27T17:41:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- athorizedUser -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_004_Authorized_User@4abdb505]" name="CloseBrowser" is-config="true" duration-ms="0" started-at="2021-06-27T17:41:52 IST" finished-at="2021-06-27T17:41:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.Final.TestCases.E2E_IMDB_TC_004_Authorized_User -->
+      <class name="org.Final.TestCases.E2E_IMDB_TC_007_Authorized_User_Navigate_to_Top_Rated_Movies">
+        <test-method status="PASS" signature="StartBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_007_Authorized_User_Navigate_to_Top_Rated_Movies@e874448]" name="StartBrowser" is-config="true" duration-ms="11580" started-at="2021-06-27T17:42:32 IST" finished-at="2021-06-27T17:42:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method status="PASS" signature="athorizedUser_TopRatedMovies()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_007_Authorized_User_Navigate_to_Top_Rated_Movies@e874448]" name="athorizedUser_TopRatedMovies" duration-ms="14761" started-at="2021-06-27T17:42:43 IST" finished-at="2021-06-27T17:42:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- athorizedUser_TopRatedMovies -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_007_Authorized_User_Navigate_to_Top_Rated_Movies@e874448]" name="CloseBrowser" is-config="true" duration-ms="0" started-at="2021-06-27T17:42:58 IST" finished-at="2021-06-27T17:42:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.Final.TestCases.E2E_IMDB_TC_007_Authorized_User_Navigate_to_Top_Rated_Movies -->
+      <class name="org.Final.TestCases.E2E_IMDB_TC_010_Authorized_User_Last_Print_Release_Date">
+        <test-method status="PASS" signature="StartBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_010_Authorized_User_Last_Print_Release_Date@45820e51]" name="StartBrowser" is-config="true" duration-ms="10629" started-at="2021-06-27T17:44:25 IST" finished-at="2021-06-27T17:44:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method status="PASS" signature="athorizedUser_Print_ReleaseDate()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_010_Authorized_User_Last_Print_Release_Date@45820e51]" name="athorizedUser_Print_ReleaseDate" duration-ms="35741" started-at="2021-06-27T17:44:36 IST" finished-at="2021-06-27T17:45:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- athorizedUser_Print_ReleaseDate -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_010_Authorized_User_Last_Print_Release_Date@45820e51]" name="CloseBrowser" is-config="true" duration-ms="1" started-at="2021-06-27T17:45:12 IST" finished-at="2021-06-27T17:45:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.Final.TestCases.E2E_IMDB_TC_010_Authorized_User_Last_Print_Release_Date -->
+      <class name="org.Final.TestCases.E2E_IMDB_TC_008_Authorized_User_Sort_Movies_by_Release_Dropdown">
+        <test-method status="PASS" signature="StartBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_008_Authorized_User_Sort_Movies_by_Release_Dropdown@60285225]" name="StartBrowser" is-config="true" duration-ms="11115" started-at="2021-06-27T17:42:58 IST" finished-at="2021-06-27T17:43:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method status="PASS" signature="athorizedUser_Release_Dropdown()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_008_Authorized_User_Sort_Movies_by_Release_Dropdown@60285225]" name="athorizedUser_Release_Dropdown" duration-ms="33027" started-at="2021-06-27T17:43:09 IST" finished-at="2021-06-27T17:43:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- athorizedUser_Release_Dropdown -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_008_Authorized_User_Sort_Movies_by_Release_Dropdown@60285225]" name="CloseBrowser" is-config="true" duration-ms="1" started-at="2021-06-27T17:43:42 IST" finished-at="2021-06-27T17:43:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.Final.TestCases.E2E_IMDB_TC_008_Authorized_User_Sort_Movies_by_Release_Dropdown -->
+      <class name="org.Final.TestCases.E2E_IMDB_TC_003_Check_for_OTP">
+        <test-method status="PASS" signature="StartBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_003_Check_for_OTP@26a7b76d]" name="StartBrowser" is-config="true" duration-ms="9918" started-at="2021-06-27T17:41:16 IST" finished-at="2021-06-27T17:41:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method status="PASS" signature="checkOTPEmail()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_003_Check_for_OTP@26a7b76d]" name="checkOTPEmail" duration-ms="10381" started-at="2021-06-27T17:41:26 IST" finished-at="2021-06-27T17:41:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOTPEmail -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:org.Final.TestCases.E2E_IMDB_TC_003_Check_for_OTP@26a7b76d]" name="CloseBrowser" is-config="true" duration-ms="0" started-at="2021-06-27T17:41:37 IST" finished-at="2021-06-27T17:41:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.Final.TestCases.E2E_IMDB_TC_003_Check_for_OTP -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
